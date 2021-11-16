@@ -1,0 +1,31 @@
+nav
+{
+    background-color: rgb(255, 117, 117);
+}
+ .navbar-brand img
+ {
+     max-height: 70px;
+     padding-top: 10px;
+ }
+ .navbar-brand
+ {
+     font-size:30px;
+     text-transform:uppercase;
+     color: rgb(51, 0, 0);
+     
+ }
+ .card-body
+ 
+ .r1{
+     margin: 50px 50px 50px 500px;
+     
+ }
+
+ footer 
+{
+text-align: center;
+padding: 8px;
+background-color: rgb(255, 221, 154);
+color: rgb(7, 5, 5);
+
+}
